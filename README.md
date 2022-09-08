@@ -17,7 +17,7 @@ I'm looking for opportunities in the Software Engineering field but I'm open to 
 - Library Management System (Java)
 - Word Predictor (C)
 - Email Bot (Python)
-- The Adventures of Vito (Pygame) - In Progress
+- Not PhotoMath (Pygame) - In Progress
 
 🤝🏼 Clubs:
 - Member of Brasa (UCF's Brazilian Association)
