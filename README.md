@@ -20,6 +20,6 @@ I'm looking for opportunities in the Software Engineering field but I'm open to 
 - Not PhotoMath (Pygame) - In Progress
 
 🤝🏼 Clubs:
-- Full Stack Developer for Brasa (UCF's Brazilian Association)
+- Tech Director for Brasa (UCF's Brazilian Association)
 - Member of GameDev Knights
 - Member of Knights Hack
