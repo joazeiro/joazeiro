@@ -14,10 +14,10 @@ I'm looking for opportunities in the Software Engineering field but I'm open to 
 
 🖥 Most Recent Projects:
 - BRASA App (Python/MongoDB)
+- Doom But Not Doom (Pygame)
 - Library Management System (Java)
 - Word Predictor (C)
 - Email Bot (Python)
-- Not PhotoMath (Pygame) - In Progress
 
 🤝🏼 Clubs:
 - Tech Director for Brasa (UCF's Brazilian Association)
