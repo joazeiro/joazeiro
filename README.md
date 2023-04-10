@@ -1,6 +1,6 @@
 <h1>Hello y'all 🤙🏼</h1>
 
-My name is Eduarda Joazeiro and I'm currently pursuing a BS in Computer Science with a minor in Mathematics at UCF. I expect to graduate in Spring 2024.
+My name is Eduarda Joazeiro and I'm currently pursuing a BS in Computer Science with a minor in Mathematics at UCF. I expect to graduate in Fall 2024.
 I'm looking for opportunities in the Software Engineering field but I'm open to most Computer Science/IT related positions, you can contact me at me.joazeiro.gomes@gmail.com
 
 🎈 Fun Facts:
